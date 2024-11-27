@@ -7,6 +7,9 @@ Terraform script to deploy Google Cloud Functions that scale based on load with 
 
 
 Description:
+
 Purpose: A simple HTTP function that responds with "Hello, [name]!".
+
 Parameters: Accepts name from the query string, request body, or defaults to "World".
+
 Response: Returns a 200 status with a message.
