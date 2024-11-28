@@ -1,5 +1,5 @@
 # TF-cloud-function-sclae-gcp
-Terraform script to deploy Google Cloud Functions that scale based on load with sample run using Apache Benchmark
+Terraform automation to deploy Google Cloud Functions that scale based on load with sample run using Apache Benchmark
 
 1. need to install ab (apache benchmark) for load testing of function
 2. remove / update unauthorised invoking of function if neeeded
